@@ -1,0 +1,103 @@
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.nav {
+  width: 245px;
+}
+
+.nav a {
+  color: #333;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.nav_c {
+  border-radius: 3px;
+  background-color: #ebf7ff;
+}
+
+.nav a:hover {
+  color: black;
+  background-color: #dcf1ff;
+}
+
+.active_tab {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #ebf7ff;
+  border-radius: 3px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.mlr5 {
+  margin: 5vw;
+}
+
+.font_s20 {
+  font-size: 15px;
+}
+
+.font_w600 {
+  font-weight: 600;
+}
+
+.display_ib {
+  display: inline-block;
+}
+
+.pt10 {
+  padding-top: 10px;
+}
+
+.pb20 {
+  padding-bottom: 20px;
+}
+
+.px10{
+  padding: 10px 0;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.mb12 {
+  margin-bottom: 12px;
+}
+
+.indent20 {
+  text-indent: 20px;
+}
+
+.indent55 {
+  text-indent: 55px;
+}
+
+.indent128 {
+  text-indent: 128px;
+}
+
+.mwidth {
+  max-width: 1000px;
+}
+
+.color_bg {
+  background-color: #ebf7ff;
+}
+
+.reset_m p {
+  margin: 7px 0;
+}
+
+.home h5 {
+  margin-bottom: -15px;
+}
